@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the D7_News feature.
+ */
+
+include_once('d7_news.features.inc');
